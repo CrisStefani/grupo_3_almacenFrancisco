@@ -1,28 +1,42 @@
-<html>
+# *Proyecto Almacén Francisco!*
 
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+Nuestro proyecto e-commerce esta pensado para el almacén  **FRANCISCO** que necesita expandir sus ventas e introducirse en la venta online algo en lo que no estaba involucrado.
 
-</head>
 
-<body lang=ES-AR>
+# *Objetivo*
 
-<p class=MsoNormal><img width=106 height=81
-src="https://github.com/dcornejofmq/grupo_3_almacenFrancisco/blob/master/CristianStefani.jpg" align=left hspace=12
-</p>
+Realizar un proyecto que nos permita introducir todo nuestro aprendizaje constante al servicio del cliente.
 
-<p class=MsoNormal><b><span style='font-size:18.0pt;line-height:107%'>Cristian Stefani</span></b></p>
+## *Integrantes*
+* **Cristian Stefani** 
+15 años de Soporte Técnico, Cursando el 3 año de la carrera Licenciatura en Sistemas.
+* Daniel Cornejo
 
-<p class=MsoNormal>&nbsp;</p>
+* David Iñiguez 
 
-<p class=MsoNormal style='text-align:justify'>...</p>
+## Referentes
+- [___Walmart___](https://www.walmart.com.ar/)
+Carrusel de ofertas, búsqueda y listado de productos.
+![Vista](file:///C:/Users/a/Pictures/Saved%20Pictures/Walmart.PNG)
 
-<p class=MsoNormal style='text-align:justify'>....</p>
+- [___Coto Digital___](https://www.cotodigital3.com.ar/sitios/cdigi?DPSLogout=true)
+Logueo y registración web.
+![Vista](file:///C:/Users/a/Pictures/Saved%20Pictures/Coto.PNG)
+- [___Carrefour___](https://www.carrefour.com.ar/)
+Carrito de compras
+![Vista](file:///C:/Users/a/Pictures/Saved%20Pictures/Carrefour.PNG)
+-  [___Jumbo___](https://www.jumbo.com.ar/)
+Metodos de entrega o retiro de sucursal
+![Vista](file:///C:/Users/a/Pictures/Saved%20Pictures/Jumbo.PNG)
+## *Wireframes*
 
-<p class=MsoNormal style='text-align:justify'>.....</p>
 
-</div>
+## *Colores*
 
-</body>
 
-</html>
+
+## *Tipografia*
+
+## Logo
+
+![Vista](file:///C:/Users/a/Pictures/Saved%20Pictures/Logo.jpeg)
